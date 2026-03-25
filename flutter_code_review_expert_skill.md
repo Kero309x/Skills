@@ -1,11 +1,11 @@
----
 
+---
 name: flutter-code-review-expert
 description: Perform advanced Flutter code reviews with deep focus on security, architecture, performance, and production readiness. Use this skill whenever analyzing Flutter/Dart code, auditing applications, or evaluating code quality before deployment.
 risk: low
 source: custom
-date_added: '2026-03-25'
-------------------------
+date_added: "2026-03-25"
+---
 
 ## Use this skill when
 
